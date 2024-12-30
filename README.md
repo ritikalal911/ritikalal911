@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm a passionate software developer and data scientist who
 - Machine Learning & Deep Learning
 - Data Analysis & Visualization
 - Web Development (HTML, CSS, JavaScript)
-- IoT & Smart Systems
 
 ## Fun Facts
 - I love solving problems through code and learning new things every day!
@@ -26,4 +25,4 @@ Welcome to my GitHub! I'm a passionate software developer and data scientist who
 Thanks for stopping by my GitHub. Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
 
 ---
-Ritika Lal | Software Developer | Data Scientist
+Ritika Lal

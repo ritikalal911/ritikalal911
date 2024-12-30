@@ -1,6 +1,6 @@
 # Hi there, I'm Ritika Lal 👋
 
-Welcome to my GitHub! I'm a passionate software developer and data scientist who loves exploring new technologies and solving real-world problems through code.
+Welcome to my GitHub! I'm a passionate python developer and data scientist who loves exploring new technologies and solving real-world problems through code.
 
 ## About Me
 - 🎓 I am constantly learning and growing in the field of programming, machine learning, and data science.
